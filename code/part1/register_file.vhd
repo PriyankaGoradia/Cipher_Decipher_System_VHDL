@@ -9,6 +9,7 @@
 -- Revision 1.01 - File Modified by Raju Machupalli (October 31, 2021)
 -- Revision 2.01 - File Modified by Shyama Gandhi (November 2, 2021)
 -- Revision 3.01 - File Modified by Antonio Andara (October 31, 2023)
+-- Revision 4.01 - File Modified by Priyanka Goradia
 -- Additional Comments:
 --*********************************************************************************
 -- This register_file has 8 locations each of 8-bits. Address lines are used to select from 
