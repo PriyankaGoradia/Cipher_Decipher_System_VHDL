@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
 -- Filename : tristatebuffer.vhdl
--- Author : Antonio Alejandro Andara Lara
+-- Author : Antonio Alejandro Andara Lara and Priyanka Goradia
 -- Date : 31-Oct-2023
 -- Design Name: tri_state_buffer_tb
 -- Project Name: ECE 410 lab 3 2023
