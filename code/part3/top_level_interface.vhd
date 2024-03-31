@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
 -- Filename : top_level_interface.vhdl
--- Author : Antonio Alejandro Andara Lara
+-- Author : Antonio Alejandro Andara Lara and Priyanka Goradia
 -- Date : 26-Oct-2023
 -- Design Name: CPU_interface
 -- Module Name: VHDL_essentials
