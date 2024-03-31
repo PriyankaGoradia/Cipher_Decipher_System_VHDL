@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
 -- Filename : clock_divider.vhdl
--- Author : Antonio Alejandro Andara Lara
+-- Author : Antonio Alejandro Andara Lara and Priyanka Goradia
 -- Date : 31-Oct-2023
 -- Design Name: clock divider
 -- Module Name: VHDL_essentials
