@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
 -- Filename : display_controller.vhdl
--- Author : Antonio Alejandro Andara Lara
+-- Author : Antonio Alejandro Andara Lara and Priyanka Goradia
 -- Date : 06-Nov-10-2022
 -- Design Name: display controller
 -- Module Name: VHDL_essentials
