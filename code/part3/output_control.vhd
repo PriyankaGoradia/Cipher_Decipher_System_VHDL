@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------------
 -- Filename : output_control.vhdl
--- Author : Antonio Alejandro Andara Lara
+-- Author : Antonio Alejandro Andara Lara and Priyanka Goradia
 -- Date : 26-Oct-2023
 -- Design Name: output_mode
 -- Module Name: VHDL_essentials
