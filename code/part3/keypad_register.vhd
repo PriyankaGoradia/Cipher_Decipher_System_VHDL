@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
 -- Filename : keypad_register.vhdl
--- Author : Antonio Alejandro Andara Lara
+-- Author : Antonio Alejandro Andara Lara and Priyanka Goradia
 -- Date : 06-Nov-10-2022
 -- Design Name: keypad register
 -- Module Name: VHDL_essentials
